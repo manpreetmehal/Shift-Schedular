@@ -1,5 +1,5 @@
 # Shift-Schedular
-Its a capstone project on which we are working.
+Its a capstone project on which i am working for this semester.
 
 Project By :- Manpreet Kaur
 
